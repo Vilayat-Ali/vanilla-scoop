@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-scoop",
+  "version": "1.0.0",
+  "description": "A mongoDBB implementation for on-disk database. It's like what sqllite is for SQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Vilayat Ali Rizvi",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
